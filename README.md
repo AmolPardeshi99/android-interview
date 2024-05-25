@@ -3,10 +3,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-## Let's Learn for Free! [Click Here](https://www.youtube.com/@anandwana001)
 
-
-## Book 1:1 Session here -> [Click Here](https://topmate.io/anandwana001)
 
 ## Complete Android Engineer Roadmap
 * [Roadmap 2024 - Topics](#android-roadmap-2024)
