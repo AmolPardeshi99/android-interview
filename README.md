@@ -45,6 +45,8 @@
    - Data classes cannot extend other classes
    - Supports destructuring declaration
 - Is singleton thread-safe? vs Object?
+      - For most use cases in Android development with Kotlin, using the object declaration is the preferred way to implement a singleton due to its simplicity and built-in thread             safety. The traditional Singleton pattern might be necessary in more complex scenarios where you need explicit control over the instantiation process or when dealing with              legacy code.
+        In summary, Kotlin's object declaration provides a more streamlined and safe approach for creating singletons, while the traditional pattern requires more effort to ensure             thread safety and proper initialization.
 - **What are the different types of scope functions?**
    - Let = `T.let { R }`
         - lambda result (R) is the return type
